@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ashwinikumar76/Resume_Analyzer-Ai/static/css/main.ee0dc3c2.css",
+    "main.js": "/ashwinikumar76/Resume_Analyzer-Ai/static/js/main.097772b3.js",
+    "index.html": "/ashwinikumar76/Resume_Analyzer-Ai/index.html",
+    "main.ee0dc3c2.css.map": "/ashwinikumar76/Resume_Analyzer-Ai/static/css/main.ee0dc3c2.css.map",
+    "main.097772b3.js.map": "/ashwinikumar76/Resume_Analyzer-Ai/static/js/main.097772b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee0dc3c2.css",
+    "static/js/main.097772b3.js"
+  ]
+}
